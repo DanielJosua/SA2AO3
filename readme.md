@@ -46,7 +46,7 @@
 *   Não possuir os pré-requisitos instalados;
 *   Ignorar ou pular instruções;
 
-## Contribuidores:
+## Contribuidores: Empresa Troppo
 
 *   Daniel Josua;
 *   [Github](https://github.com/DanielJosua);
